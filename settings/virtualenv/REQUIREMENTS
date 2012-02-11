@@ -1,7 +1,6 @@
 Brownie
 Django
 Jinja2
-MySQL-python
 PIL
 PyYAML
 Pygments
@@ -37,7 +36,6 @@ hiredis
 jsonpickle
 lockfile
 mimeparse
-MySQL-Connector
 nexus
 nexus-redis
 nose
